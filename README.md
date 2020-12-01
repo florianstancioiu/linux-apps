@@ -9,4 +9,4 @@ sudo apt install vim
 sudo apt-get remove --purge nano
 sudo apt install caffeine
 sudo apt install git
-
+sudo apt install curl
