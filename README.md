@@ -1,4 +1,4 @@
-#Linux apps to install after distro-hopping
+# Linux apps to install after distro-hopping
 
 * sudo apt update && sudo apt upgrade
 * sudo apt install gnome-tweaks
